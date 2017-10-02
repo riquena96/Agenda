@@ -1,0 +1,36 @@
+[29-Sep-2017 01:22:42 Europe/Berlin] PHP Notice:  Undefined index: idEmail in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 71
+[29-Sep-2017 01:22:42 Europe/Berlin] PHP Notice:  Undefined index: emailUsuario in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 73
+[29-Sep-2017 01:22:42 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 52
+[29-Sep-2017 01:23:11 Europe/Berlin] PHP Notice:  Undefined index: emailUsuario in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 73
+[29-Sep-2017 01:23:11 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 52
+[29-Sep-2017 01:23:29 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 52
+[29-Sep-2017 01:26:10 Europe/Berlin] PHP Notice:  Undefined index: action in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 19
+[29-Sep-2017 01:26:54 Europe/Berlin] PHP Notice:  Undefined index: action in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 19
+[29-Sep-2017 01:29:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_ASSOC' in C:\xampp\htdocs\CrudAgenda\Model\Email.php:97
+Stack trace:
+#0 C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php(60): Email->listaEmailByIdEmail('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 97
+[29-Sep-2017 01:29:37 Europe/Berlin] PHP Notice:  Undefined index: idEmail in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 101
+[29-Sep-2017 01:29:37 Europe/Berlin] PHP Notice:  Undefined index: emailUsuario in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 102
+[29-Sep-2017 01:30:17 Europe/Berlin] PHP Notice:  Undefined index: emailUsuario in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 102
+[29-Sep-2017 01:31:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_ASSOC' in C:\xampp\htdocs\CrudAgenda\Model\Email.php:127
+Stack trace:
+#0 C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php(70): Email->listaEmailByIdUsuario('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 127
+[29-Sep-2017 01:32:01 Europe/Berlin] PHP Notice:  Undefined index: idEmail in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 131
+[29-Sep-2017 01:32:01 Europe/Berlin] PHP Notice:  Undefined index: emailUsuario in C:\xampp\htdocs\CrudAgenda\Model\Email.php on line 132
+[29-Sep-2017 01:44:54 Europe/Berlin] PHP Notice:  Undefined index: idUsuario in C:\xampp\htdocs\CrudAgenda\Model\Usuario.php on line 91
+[29-Sep-2017 02:01:56 Europe/Berlin] PHP Notice:  Undefined index: idContato in C:\xampp\htdocs\CrudAgenda\Model\Contato.php on line 129
+[29-Sep-2017 05:16:25 Europe/Berlin] PHP Notice:  Undefined index: action in C:\xampp\htdocs\CrudAgenda\Controller\UsuarioController.php on line 19
+[29-Sep-2017 05:16:53 Europe/Berlin] PHP Notice:  Undefined index: action in C:\xampp\htdocs\CrudAgenda\Controller\UsuarioController.php on line 19
+[29-Sep-2017 05:20:06 Europe/Berlin] PHP Notice:  Undefined index: action in C:\xampp\htdocs\CrudAgenda\Controller\UsuarioController.php on line 19
+[29-Sep-2017 06:20:23 Europe/Berlin] PHP Notice:  Undefined index: idUsuario in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68
+[29-Sep-2017 06:21:20 Europe/Berlin] PHP Notice:  Undefined index: idUsuario in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68
+[29-Sep-2017 06:21:58 Europe/Berlin] PHP Notice:  Undefined index: idUs in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68
+[29-Sep-2017 06:22:14 Europe/Berlin] PHP Notice:  Undefined index: idUs in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68
+[29-Sep-2017 06:22:29 Europe/Berlin] PHP Notice:  Undefined index: idUs in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68
+[29-Sep-2017 06:22:44 Europe/Berlin] PHP Notice:  Undefined index: idUs in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68
+[29-Sep-2017 06:23:40 Europe/Berlin] PHP Notice:  Undefined index: idUsuario in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68
+[29-Sep-2017 06:24:05 Europe/Berlin] PHP Notice:  Undefined index: idUsuario in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 68

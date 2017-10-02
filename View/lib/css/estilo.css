@@ -1,0 +1,78 @@
+html {
+    font-family: sans-serif, GillSans, Calibri, Trebuchet;
+}
+
+body {
+    width: 100%;
+    height: auto;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+.page-title {
+    margin-top: 5px;
+}
+
+.tabelaIndex {
+    border-bottom: 2px solid #ccc;
+}
+
+.tituloTabela {
+    margin-top: 30px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.glyphicon-edit {
+    color: #d58512 !important;
+    font-size: 18px;
+}
+
+.glyphicon-trash {
+    color: #c9302c !important;
+    font-size: 18px;
+}
+
+.iconEdit {
+    padding-left: 15px;
+}
+
+#modalInformacaoUsuario {
+    cursor: pointer;
+}
+
+i {
+    cursor: pointer;
+}
+
+.listaBotao {
+    margin-bottom: 20px;
+}
+
+#listaContatoByUsuario ul, #listaEmailByUsuario ul {
+    list-style: none;
+}
+
+#listaContatoByUsuario ul li, #listaEmailByUsuario ul li {
+    width: 100%;
+    line-height: 40px;
+}
+
+#listaContatoByUsuario ul li:hover, #listaEmailByUsuario ul li:hover {
+    font-size: 20px;
+    background-color: #f6f6f6;
+}
+
+.dadosUsuario {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.modalDados {
+    float: right;
+}

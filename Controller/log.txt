@@ -1,0 +1,5 @@
+[29-Sep-2017 01:11:41 Europe/Berlin] PHP Warning:  ini_set() expects exactly 2 parameters, 3 given in C:\xampp\htdocs\CrudAgenda\Model\erro_log.php on line 11
+[29-Sep-2017 01:13:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'CrudAgenda\Model\Email' not found in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\CrudAgenda\Controller\EmailController.php on line 15
